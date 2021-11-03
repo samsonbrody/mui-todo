@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mui-todo/static/css/main.cd6821e1.chunk.css",
+    "main.js": "/mui-todo/static/js/main.c1663b94.chunk.js",
+    "main.js.map": "/mui-todo/static/js/main.c1663b94.chunk.js.map",
+    "runtime-main.js": "/mui-todo/static/js/runtime-main.b65a2af4.js",
+    "runtime-main.js.map": "/mui-todo/static/js/runtime-main.b65a2af4.js.map",
+    "static/js/2.a15a3f8d.chunk.js": "/mui-todo/static/js/2.a15a3f8d.chunk.js",
+    "static/js/2.a15a3f8d.chunk.js.map": "/mui-todo/static/js/2.a15a3f8d.chunk.js.map",
+    "static/js/3.70a9f9ec.chunk.js": "/mui-todo/static/js/3.70a9f9ec.chunk.js",
+    "static/js/3.70a9f9ec.chunk.js.map": "/mui-todo/static/js/3.70a9f9ec.chunk.js.map",
+    "index.html": "/mui-todo/index.html",
+    "static/css/main.cd6821e1.chunk.css.map": "/mui-todo/static/css/main.cd6821e1.chunk.css.map",
+    "static/js/2.a15a3f8d.chunk.js.LICENSE.txt": "/mui-todo/static/js/2.a15a3f8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b65a2af4.js",
+    "static/js/2.a15a3f8d.chunk.js",
+    "static/css/main.cd6821e1.chunk.css",
+    "static/js/main.c1663b94.chunk.js"
+  ]
+}
